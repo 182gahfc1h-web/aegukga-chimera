@@ -1,0 +1,13 @@
+{
+  "title": "애국가 - 무반주 CHIMERA 보컬",
+  "audio": "aegukga_chimera.wav",
+  "bpm": 64,
+  "downbeat": 0.3,
+  "voices": [
+    {
+      "name": "애국가",
+      "tele": "aegukga_voice.tele",
+      "melody": "aegukga_chimera_official_melody.json"
+    }
+  ]
+}

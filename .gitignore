@@ -1,0 +1,16 @@
+node_modules
+dist
+out
+*.wav
+.DS_Store
+target/
+src/wasm/chimera.wasm
+
+# Publish only the Aegukga show files used by the 2D replay.
+public/shows/*
+!public/shows/aegukga/
+public/shows/aegukga/*
+!public/shows/aegukga/show.json
+!public/shows/aegukga/aegukga_chimera.wav
+!public/shows/aegukga/aegukga_voice.tele
+!public/shows/aegukga/aegukga_chimera_official_melody.json
